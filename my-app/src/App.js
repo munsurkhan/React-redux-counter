@@ -1,10 +1,10 @@
 import React from 'react';
-import CounterPage from "./Assets/Pages/CounterPage";
+import TodoPage from "./Assets/Pages/TodoPage";
 
 const App = () => {
     return (
         <div>
-          <CounterPage/>
+          <TodoPage/>
         </div>
     );
 };
